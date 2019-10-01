@@ -1,0 +1,7 @@
+C:\Users\A3&MSD\Desktop\ListaExercicio\ListaExercicio\bin\Debug\ListaExercicio.exe.config
+C:\Users\A3&MSD\Desktop\ListaExercicio\ListaExercicio\bin\Debug\ListaExercicio.exe
+C:\Users\A3&MSD\Desktop\ListaExercicio\ListaExercicio\bin\Debug\ListaExercicio.pdb
+C:\Users\A3&MSD\Desktop\ListaExercicio\ListaExercicio\obj\Debug\ListaExercicio.csprojAssemblyReference.cache
+C:\Users\A3&MSD\Desktop\ListaExercicio\ListaExercicio\obj\Debug\ListaExercicio.csproj.CoreCompileInputs.cache
+C:\Users\A3&MSD\Desktop\ListaExercicio\ListaExercicio\obj\Debug\ListaExercicio.exe
+C:\Users\A3&MSD\Desktop\ListaExercicio\ListaExercicio\obj\Debug\ListaExercicio.pdb

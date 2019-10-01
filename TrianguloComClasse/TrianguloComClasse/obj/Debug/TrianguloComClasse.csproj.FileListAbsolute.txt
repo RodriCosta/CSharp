@@ -1,0 +1,7 @@
+E:\c#\c# orientado a objetos\TrianguloComClasse\TrianguloComClasse\bin\Debug\TrianguloComClasse.exe.config
+E:\c#\c# orientado a objetos\TrianguloComClasse\TrianguloComClasse\bin\Debug\TrianguloComClasse.exe
+E:\c#\c# orientado a objetos\TrianguloComClasse\TrianguloComClasse\bin\Debug\TrianguloComClasse.pdb
+E:\c#\c# orientado a objetos\TrianguloComClasse\TrianguloComClasse\obj\Debug\TrianguloComClasse.csprojAssemblyReference.cache
+E:\c#\c# orientado a objetos\TrianguloComClasse\TrianguloComClasse\obj\Debug\TrianguloComClasse.csproj.CoreCompileInputs.cache
+E:\c#\c# orientado a objetos\TrianguloComClasse\TrianguloComClasse\obj\Debug\TrianguloComClasse.exe
+E:\c#\c# orientado a objetos\TrianguloComClasse\TrianguloComClasse\obj\Debug\TrianguloComClasse.pdb

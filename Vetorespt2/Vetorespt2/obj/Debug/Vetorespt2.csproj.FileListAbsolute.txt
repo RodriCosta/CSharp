@@ -1,0 +1,7 @@
+C:\Users\A3&MSD\Desktop\Vetorespt2\Vetorespt2\bin\Debug\Vetorespt2.exe.config
+C:\Users\A3&MSD\Desktop\Vetorespt2\Vetorespt2\bin\Debug\Vetorespt2.exe
+C:\Users\A3&MSD\Desktop\Vetorespt2\Vetorespt2\bin\Debug\Vetorespt2.pdb
+C:\Users\A3&MSD\Desktop\Vetorespt2\Vetorespt2\obj\Debug\Vetorespt2.csprojAssemblyReference.cache
+C:\Users\A3&MSD\Desktop\Vetorespt2\Vetorespt2\obj\Debug\Vetorespt2.csproj.CoreCompileInputs.cache
+C:\Users\A3&MSD\Desktop\Vetorespt2\Vetorespt2\obj\Debug\Vetorespt2.exe
+C:\Users\A3&MSD\Desktop\Vetorespt2\Vetorespt2\obj\Debug\Vetorespt2.pdb

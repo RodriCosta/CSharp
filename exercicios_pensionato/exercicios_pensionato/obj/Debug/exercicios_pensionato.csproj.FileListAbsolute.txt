@@ -1,0 +1,7 @@
+C:\Users\A3&MSD\Desktop\exercicios_pensionato\exercicios_pensionato\bin\Debug\exercicios_pensionato.exe.config
+C:\Users\A3&MSD\Desktop\exercicios_pensionato\exercicios_pensionato\bin\Debug\exercicios_pensionato.exe
+C:\Users\A3&MSD\Desktop\exercicios_pensionato\exercicios_pensionato\bin\Debug\exercicios_pensionato.pdb
+C:\Users\A3&MSD\Desktop\exercicios_pensionato\exercicios_pensionato\obj\Debug\exercicios_pensionato.csprojAssemblyReference.cache
+C:\Users\A3&MSD\Desktop\exercicios_pensionato\exercicios_pensionato\obj\Debug\exercicios_pensionato.csproj.CoreCompileInputs.cache
+C:\Users\A3&MSD\Desktop\exercicios_pensionato\exercicios_pensionato\obj\Debug\exercicios_pensionato.exe
+C:\Users\A3&MSD\Desktop\exercicios_pensionato\exercicios_pensionato\obj\Debug\exercicios_pensionato.pdb

@@ -1,0 +1,14 @@
+C:\Users\A3&MSD\Desktop\ContaExercicioConsole\ContaExercicioConsole\bin\Debug\ContaExercicioConsole.exe.config
+C:\Users\A3&MSD\Desktop\ContaExercicioConsole\ContaExercicioConsole\bin\Debug\ContaExercicioConsole.exe
+C:\Users\A3&MSD\Desktop\ContaExercicioConsole\ContaExercicioConsole\bin\Debug\ContaExercicioConsole.pdb
+C:\Users\A3&MSD\Desktop\ContaExercicioConsole\ContaExercicioConsole\obj\Debug\ContaExercicioConsole.csprojAssemblyReference.cache
+C:\Users\A3&MSD\Desktop\ContaExercicioConsole\ContaExercicioConsole\obj\Debug\ContaExercicioConsole.csproj.CoreCompileInputs.cache
+C:\Users\A3&MSD\Desktop\ContaExercicioConsole\ContaExercicioConsole\obj\Debug\ContaExercicioConsole.exe
+C:\Users\A3&MSD\Desktop\ContaExercicioConsole\ContaExercicioConsole\obj\Debug\ContaExercicioConsole.pdb
+E:\c#\c# orientado a objetos\ContaExercicioConsole\ContaExercicioConsole\bin\Debug\ContaExercicioConsole.exe.config
+E:\c#\c# orientado a objetos\ContaExercicioConsole\ContaExercicioConsole\bin\Debug\ContaExercicioConsole.exe
+E:\c#\c# orientado a objetos\ContaExercicioConsole\ContaExercicioConsole\bin\Debug\ContaExercicioConsole.pdb
+E:\c#\c# orientado a objetos\ContaExercicioConsole\ContaExercicioConsole\obj\Debug\ContaExercicioConsole.csprojAssemblyReference.cache
+E:\c#\c# orientado a objetos\ContaExercicioConsole\ContaExercicioConsole\obj\Debug\ContaExercicioConsole.csproj.CoreCompileInputs.cache
+E:\c#\c# orientado a objetos\ContaExercicioConsole\ContaExercicioConsole\obj\Debug\ContaExercicioConsole.exe
+E:\c#\c# orientado a objetos\ContaExercicioConsole\ContaExercicioConsole\obj\Debug\ContaExercicioConsole.pdb

@@ -1,0 +1,21 @@
+C:\Users\A3&MSD\Desktop\ProblemaProduto\ProblemaProduto\bin\Debug\ProblemaProduto.exe.config
+C:\Users\A3&MSD\Desktop\ProblemaProduto\ProblemaProduto\bin\Debug\ProblemaProduto.exe
+C:\Users\A3&MSD\Desktop\ProblemaProduto\ProblemaProduto\bin\Debug\ProblemaProduto.pdb
+C:\Users\A3&MSD\Desktop\ProblemaProduto\ProblemaProduto\obj\Debug\ProblemaProduto.csprojAssemblyReference.cache
+C:\Users\A3&MSD\Desktop\ProblemaProduto\ProblemaProduto\obj\Debug\ProblemaProduto.csproj.CoreCompileInputs.cache
+C:\Users\A3&MSD\Desktop\ProblemaProduto\ProblemaProduto\obj\Debug\ProblemaProduto.exe
+C:\Users\A3&MSD\Desktop\ProblemaProduto\ProblemaProduto\obj\Debug\ProblemaProduto.pdb
+E:\c#\c# orientado a objetos\ProblemaProduto\ProblemaProduto\bin\Debug\ProblemaProduto.exe.config
+E:\c#\c# orientado a objetos\ProblemaProduto\ProblemaProduto\bin\Debug\ProblemaProduto.exe
+E:\c#\c# orientado a objetos\ProblemaProduto\ProblemaProduto\bin\Debug\ProblemaProduto.pdb
+E:\c#\c# orientado a objetos\ProblemaProduto\ProblemaProduto\obj\Debug\ProblemaProduto.csprojAssemblyReference.cache
+E:\c#\c# orientado a objetos\ProblemaProduto\ProblemaProduto\obj\Debug\ProblemaProduto.csproj.CoreCompileInputs.cache
+E:\c#\c# orientado a objetos\ProblemaProduto\ProblemaProduto\obj\Debug\ProblemaProduto.exe
+E:\c#\c# orientado a objetos\ProblemaProduto\ProblemaProduto\obj\Debug\ProblemaProduto.pdb
+E:\c#\c# orientado a objetos\ProblemaProdutoCConstrutores\ProblemaProduto\bin\Debug\ProblemaProduto.exe.config
+E:\c#\c# orientado a objetos\ProblemaProdutoCConstrutores\ProblemaProduto\bin\Debug\ProblemaProduto.exe
+E:\c#\c# orientado a objetos\ProblemaProdutoCConstrutores\ProblemaProduto\bin\Debug\ProblemaProduto.pdb
+E:\c#\c# orientado a objetos\ProblemaProdutoCConstrutores\ProblemaProduto\obj\Debug\ProblemaProduto.csprojAssemblyReference.cache
+E:\c#\c# orientado a objetos\ProblemaProdutoCConstrutores\ProblemaProduto\obj\Debug\ProblemaProduto.csproj.CoreCompileInputs.cache
+E:\c#\c# orientado a objetos\ProblemaProdutoCConstrutores\ProblemaProduto\obj\Debug\ProblemaProduto.exe
+E:\c#\c# orientado a objetos\ProblemaProdutoCConstrutores\ProblemaProduto\obj\Debug\ProblemaProduto.pdb

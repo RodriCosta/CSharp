@@ -1,0 +1,7 @@
+C:\Users\A3&MSD\Desktop\StructNullable\StructNullable\bin\Debug\StructNullable.exe.config
+C:\Users\A3&MSD\Desktop\StructNullable\StructNullable\bin\Debug\StructNullable.exe
+C:\Users\A3&MSD\Desktop\StructNullable\StructNullable\bin\Debug\StructNullable.pdb
+C:\Users\A3&MSD\Desktop\StructNullable\StructNullable\obj\Debug\StructNullable.csprojAssemblyReference.cache
+C:\Users\A3&MSD\Desktop\StructNullable\StructNullable\obj\Debug\StructNullable.csproj.CoreCompileInputs.cache
+C:\Users\A3&MSD\Desktop\StructNullable\StructNullable\obj\Debug\StructNullable.exe
+C:\Users\A3&MSD\Desktop\StructNullable\StructNullable\obj\Debug\StructNullable.pdb

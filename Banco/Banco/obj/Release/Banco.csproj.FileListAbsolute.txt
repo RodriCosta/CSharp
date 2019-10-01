@@ -1,0 +1,9 @@
+C:\Users\A3&MSD\source\repos\Banco\Banco\bin\Release\Banco.exe.config
+C:\Users\A3&MSD\source\repos\Banco\Banco\bin\Release\Banco.exe
+C:\Users\A3&MSD\source\repos\Banco\Banco\bin\Release\Banco.pdb
+C:\Users\A3&MSD\source\repos\Banco\Banco\obj\Release\Banco.Banco.resources
+C:\Users\A3&MSD\source\repos\Banco\Banco\obj\Release\Banco.Properties.Resources.resources
+C:\Users\A3&MSD\source\repos\Banco\Banco\obj\Release\Banco.csproj.GenerateResource.cache
+C:\Users\A3&MSD\source\repos\Banco\Banco\obj\Release\Banco.csproj.CoreCompileInputs.cache
+C:\Users\A3&MSD\source\repos\Banco\Banco\obj\Release\Banco.exe
+C:\Users\A3&MSD\source\repos\Banco\Banco\obj\Release\Banco.pdb

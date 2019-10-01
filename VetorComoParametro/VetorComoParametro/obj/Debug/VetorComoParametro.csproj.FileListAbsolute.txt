@@ -1,0 +1,7 @@
+C:\Users\A3&MSD\Desktop\VetorComoParametro\VetorComoParametro\bin\Debug\VetorComoParametro.exe.config
+C:\Users\A3&MSD\Desktop\VetorComoParametro\VetorComoParametro\bin\Debug\VetorComoParametro.exe
+C:\Users\A3&MSD\Desktop\VetorComoParametro\VetorComoParametro\bin\Debug\VetorComoParametro.pdb
+C:\Users\A3&MSD\Desktop\VetorComoParametro\VetorComoParametro\obj\Debug\VetorComoParametro.csprojAssemblyReference.cache
+C:\Users\A3&MSD\Desktop\VetorComoParametro\VetorComoParametro\obj\Debug\VetorComoParametro.csproj.CoreCompileInputs.cache
+C:\Users\A3&MSD\Desktop\VetorComoParametro\VetorComoParametro\obj\Debug\VetorComoParametro.exe
+C:\Users\A3&MSD\Desktop\VetorComoParametro\VetorComoParametro\obj\Debug\VetorComoParametro.pdb

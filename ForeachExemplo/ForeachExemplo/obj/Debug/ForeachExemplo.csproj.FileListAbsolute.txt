@@ -1,0 +1,7 @@
+C:\Users\A3&MSD\Desktop\ForeachExemplo\ForeachExemplo\bin\Debug\ForeachExemplo.exe.config
+C:\Users\A3&MSD\Desktop\ForeachExemplo\ForeachExemplo\bin\Debug\ForeachExemplo.exe
+C:\Users\A3&MSD\Desktop\ForeachExemplo\ForeachExemplo\bin\Debug\ForeachExemplo.pdb
+C:\Users\A3&MSD\Desktop\ForeachExemplo\ForeachExemplo\obj\Debug\ForeachExemplo.csprojAssemblyReference.cache
+C:\Users\A3&MSD\Desktop\ForeachExemplo\ForeachExemplo\obj\Debug\ForeachExemplo.csproj.CoreCompileInputs.cache
+C:\Users\A3&MSD\Desktop\ForeachExemplo\ForeachExemplo\obj\Debug\ForeachExemplo.exe
+C:\Users\A3&MSD\Desktop\ForeachExemplo\ForeachExemplo\obj\Debug\ForeachExemplo.pdb

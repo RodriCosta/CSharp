@@ -1,0 +1,7 @@
+C:\Users\A3&MSD\Desktop\Conjuntos\Conjuntos\bin\Debug\Conjuntos.exe.config
+C:\Users\A3&MSD\Desktop\Conjuntos\Conjuntos\bin\Debug\Conjuntos.exe
+C:\Users\A3&MSD\Desktop\Conjuntos\Conjuntos\bin\Debug\Conjuntos.pdb
+C:\Users\A3&MSD\Desktop\Conjuntos\Conjuntos\obj\Debug\Conjuntos.csprojAssemblyReference.cache
+C:\Users\A3&MSD\Desktop\Conjuntos\Conjuntos\obj\Debug\Conjuntos.csproj.CoreCompileInputs.cache
+C:\Users\A3&MSD\Desktop\Conjuntos\Conjuntos\obj\Debug\Conjuntos.exe
+C:\Users\A3&MSD\Desktop\Conjuntos\Conjuntos\obj\Debug\Conjuntos.pdb

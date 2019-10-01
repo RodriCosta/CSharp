@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoStatico", "MetodoStatico\MetodoStatico.csproj", "{6DD2802C-23C2-4130-B376-357FFA7BF64F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DD2802C-23C2-4130-B376-357FFA7BF64F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD2802C-23C2-4130-B376-357FFA7BF64F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD2802C-23C2-4130-B376-357FFA7BF64F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD2802C-23C2-4130-B376-357FFA7BF64F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A2BB9E5-4940-4C6C-9261-A40DBAE8E0FC}
+	EndGlobalSection
+EndGlobal
